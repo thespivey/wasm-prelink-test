@@ -1,0 +1,4 @@
+emsdk/
+*.a
+*.o
+a.out*
